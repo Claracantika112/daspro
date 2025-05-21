@@ -1,0 +1,1001 @@
+Usia,Gender,Kota Asal,Jenis Musik,Kategori Audisi,Pelatihan,Nilai Vokal,Nilai Penampilan,Nilai Total,Status Lolos
+28,L,Bandung,Rock,Duo,Tidak,8,8,8.0,Lolos
+21,P,Surabaya,K-Pop,Duo,Tidak,10,8,9.0,Lolos
+19,P,Surabaya,K-Pop,Grup,Tidak,1,8,4.5,Tidak Lolos
+17,P,Bandung,K-Pop,Grup,Tidak,5,4,4.5,Tidak Lolos
+19,L,Medan,Dangdut,Solo,Tidak,1,7,4.0,Tidak Lolos
+25,P,Jakarta,Rock,Duo,Ya,6,6,6.0,Tidak Lolos
+29,L,Jakarta,Jazz,Solo,Ya,8,7,7.5,Lolos
+16,L,Medan,K-Pop,Grup,Tidak,6,4,5.0,Tidak Lolos
+17,L,Jakarta,K-Pop,Duo,Ya,4,5,4.5,Tidak Lolos
+21,P,Surabaya,Dangdut,Grup,Tidak,6,8,7.0,Lolos
+27,P,Medan,Jazz,Duo,Tidak,3,10,6.5,Tidak Lolos
+16,L,Bandung,Rock,Grup,Tidak,6,5,5.5,Tidak Lolos
+19,L,Surabaya,Jazz,Duo,Ya,3,4,3.5,Tidak Lolos
+24,P,Medan,Rock,Grup,Ya,6,2,4.0,Tidak Lolos
+17,L,Jakarta,K-Pop,Duo,Ya,10,9,9.5,Lolos
+21,L,Jakarta,K-Pop,Duo,Ya,3,8,5.5,Tidak Lolos
+20,L,Surabaya,Jazz,Grup,Ya,3,7,5.0,Tidak Lolos
+29,P,Medan,Rock,Grup,Tidak,5,7,6.0,Tidak Lolos
+27,L,Bandung,K-Pop,Solo,Ya,2,3,2.5,Tidak Lolos
+15,P,Makassar,Dangdut,Grup,Tidak,7,2,4.5,Tidak Lolos
+24,P,Medan,Rock,Duo,Tidak,3,6,4.5,Tidak Lolos
+17,L,Bandung,K-Pop,Grup,Tidak,5,5,5.0,Tidak Lolos
+29,P,Bandung,Jazz,Solo,Ya,1,2,1.5,Tidak Lolos
+19,L,Makassar,Rock,Duo,Ya,8,9,8.5,Lolos
+24,P,Jakarta,K-Pop,Grup,Ya,1,5,3.0,Tidak Lolos
+26,P,Makassar,Rock,Solo,Tidak,10,6,8.0,Lolos
+29,L,Jakarta,Jazz,Duo,Ya,4,8,6.0,Tidak Lolos
+26,L,Medan,Dangdut,Grup,Tidak,8,4,6.0,Tidak Lolos
+30,L,Surabaya,Dangdut,Solo,Tidak,8,3,5.5,Tidak Lolos
+25,P,Bandung,Dangdut,Duo,Tidak,10,7,8.5,Lolos
+23,L,Surabaya,Dangdut,Solo,Ya,4,6,5.0,Tidak Lolos
+21,P,Surabaya,Dangdut,Grup,Tidak,6,10,8.0,Lolos
+20,P,Jakarta,Pop,Duo,Ya,3,8,5.5,Tidak Lolos
+16,P,Jakarta,Jazz,Duo,Tidak,7,7,7.0,Lolos
+19,P,Jakarta,Dangdut,Grup,Ya,7,6,6.5,Tidak Lolos
+23,P,Makassar,Pop,Grup,Ya,2,7,4.5,Tidak Lolos
+20,P,Surabaya,K-Pop,Grup,Ya,8,6,7.0,Lolos
+30,L,Jakarta,Rock,Duo,Ya,3,6,4.5,Tidak Lolos
+24,P,Surabaya,Pop,Grup,Ya,7,3,5.0,Tidak Lolos
+27,P,Jakarta,Rock,Solo,Ya,3,1,2.0,Tidak Lolos
+15,P,Medan,K-Pop,Duo,Ya,9,9,9.0,Lolos
+15,L,Makassar,K-Pop,Grup,Ya,4,10,7.0,Lolos
+18,L,Makassar,Dangdut,Duo,Ya,8,3,5.5,Tidak Lolos
+20,L,Bandung,Dangdut,Duo,Ya,8,1,4.5,Tidak Lolos
+27,P,Surabaya,Pop,Solo,Tidak,6,2,4.0,Tidak Lolos
+22,L,Makassar,Pop,Grup,Ya,3,1,2.0,Tidak Lolos
+28,P,Bandung,Pop,Grup,Ya,8,7,7.5,Lolos
+21,P,Surabaya,K-Pop,Duo,Ya,2,3,2.5,Tidak Lolos
+26,L,Jakarta,Dangdut,Grup,Tidak,4,2,3.0,Tidak Lolos
+17,L,Jakarta,Jazz,Grup,Tidak,2,2,2.0,Tidak Lolos
+17,P,Surabaya,Jazz,Grup,Tidak,5,3,4.0,Tidak Lolos
+18,L,Jakarta,K-Pop,Solo,Tidak,10,2,6.0,Tidak Lolos
+22,L,Medan,K-Pop,Grup,Tidak,5,5,5.0,Tidak Lolos
+27,P,Medan,Pop,Solo,Tidak,8,6,7.0,Lolos
+30,P,Medan,K-Pop,Grup,Tidak,3,2,2.5,Tidak Lolos
+21,P,Makassar,Jazz,Duo,Ya,8,8,8.0,Lolos
+25,P,Jakarta,Dangdut,Grup,Ya,7,10,8.5,Lolos
+21,P,Medan,Jazz,Grup,Tidak,2,10,6.0,Tidak Lolos
+21,L,Makassar,Rock,Duo,Ya,6,2,4.0,Tidak Lolos
+26,L,Makassar,Jazz,Solo,Tidak,6,2,4.0,Tidak Lolos
+18,P,Medan,Dangdut,Grup,Tidak,6,8,7.0,Lolos
+27,L,Surabaya,K-Pop,Duo,Tidak,6,2,4.0,Tidak Lolos
+21,P,Bandung,K-Pop,Duo,Ya,9,2,5.5,Tidak Lolos
+28,P,Surabaya,K-Pop,Solo,Ya,9,4,6.5,Tidak Lolos
+19,P,Surabaya,Rock,Solo,Ya,1,9,5.0,Tidak Lolos
+29,L,Medan,Jazz,Duo,Ya,5,2,3.5,Tidak Lolos
+18,L,Jakarta,Dangdut,Grup,Ya,4,3,3.5,Tidak Lolos
+18,P,Medan,Pop,Grup,Tidak,5,10,7.5,Lolos
+21,L,Surabaya,Pop,Duo,Ya,7,3,5.0,Tidak Lolos
+29,P,Jakarta,Jazz,Grup,Tidak,7,10,8.5,Lolos
+28,L,Surabaya,Pop,Duo,Ya,5,3,4.0,Tidak Lolos
+27,P,Surabaya,Jazz,Solo,Tidak,10,5,7.5,Lolos
+21,P,Jakarta,Dangdut,Duo,Tidak,2,1,1.5,Tidak Lolos
+29,L,Surabaya,Jazz,Solo,Ya,2,4,3.0,Tidak Lolos
+17,P,Jakarta,Pop,Solo,Tidak,7,5,6.0,Tidak Lolos
+26,L,Surabaya,Jazz,Grup,Ya,4,8,6.0,Tidak Lolos
+23,P,Bandung,K-Pop,Duo,Ya,10,7,8.5,Lolos
+21,P,Makassar,K-Pop,Solo,Tidak,3,8,5.5,Tidak Lolos
+26,L,Bandung,Pop,Solo,Ya,5,8,6.5,Tidak Lolos
+26,P,Jakarta,K-Pop,Solo,Tidak,2,4,3.0,Tidak Lolos
+29,P,Jakarta,Dangdut,Grup,Ya,8,2,5.0,Tidak Lolos
+30,P,Bandung,K-Pop,Solo,Tidak,1,10,5.5,Tidak Lolos
+27,P,Bandung,Pop,Solo,Ya,9,1,5.0,Tidak Lolos
+27,L,Makassar,Jazz,Solo,Tidak,10,10,10.0,Lolos
+18,P,Medan,Jazz,Duo,Ya,5,7,6.0,Tidak Lolos
+26,P,Surabaya,K-Pop,Solo,Tidak,3,2,2.5,Tidak Lolos
+20,P,Surabaya,Pop,Solo,Ya,10,6,8.0,Lolos
+24,L,Surabaya,Dangdut,Duo,Ya,3,7,5.0,Tidak Lolos
+21,L,Surabaya,Pop,Grup,Tidak,6,9,7.5,Lolos
+17,L,Jakarta,Jazz,Grup,Tidak,8,10,9.0,Lolos
+20,P,Makassar,K-Pop,Solo,Tidak,6,1,3.5,Tidak Lolos
+15,P,Bandung,Rock,Grup,Ya,7,6,6.5,Tidak Lolos
+20,L,Surabaya,Jazz,Grup,Tidak,3,4,3.5,Tidak Lolos
+16,L,Surabaya,Rock,Solo,Ya,4,2,3.0,Tidak Lolos
+17,L,Medan,Jazz,Duo,Tidak,4,10,7.0,Lolos
+20,L,Medan,K-Pop,Duo,Tidak,9,8,8.5,Lolos
+16,P,Medan,Dangdut,Solo,Tidak,7,7,7.0,Lolos
+29,P,Bandung,Rock,Grup,Ya,6,5,5.5,Tidak Lolos
+15,L,Bandung,Pop,Duo,Ya,2,3,2.5,Tidak Lolos
+23,P,Bandung,K-Pop,Grup,Ya,4,7,5.5,Tidak Lolos
+20,L,Jakarta,Pop,Solo,Tidak,1,8,4.5,Tidak Lolos
+23,P,Medan,Dangdut,Grup,Ya,9,10,9.5,Lolos
+29,L,Bandung,K-Pop,Grup,Ya,5,10,7.5,Lolos
+21,P,Medan,Jazz,Solo,Ya,4,9,6.5,Tidak Lolos
+27,P,Makassar,K-Pop,Solo,Tidak,2,3,2.5,Tidak Lolos
+23,P,Surabaya,Pop,Grup,Tidak,10,1,5.5,Tidak Lolos
+28,P,Jakarta,K-Pop,Grup,Tidak,5,9,7.0,Lolos
+18,L,Medan,Jazz,Duo,Tidak,3,2,2.5,Tidak Lolos
+16,P,Bandung,Rock,Solo,Tidak,10,10,10.0,Lolos
+16,L,Jakarta,Pop,Duo,Tidak,6,2,4.0,Tidak Lolos
+25,L,Jakarta,K-Pop,Duo,Tidak,3,4,3.5,Tidak Lolos
+16,L,Medan,Jazz,Duo,Ya,8,6,7.0,Lolos
+21,P,Medan,Rock,Grup,Tidak,1,6,3.5,Tidak Lolos
+19,L,Jakarta,Dangdut,Grup,Ya,8,10,9.0,Lolos
+16,L,Makassar,Pop,Duo,Ya,6,3,4.5,Tidak Lolos
+27,L,Jakarta,Rock,Grup,Tidak,3,10,6.5,Tidak Lolos
+21,P,Medan,Rock,Solo,Ya,5,9,7.0,Lolos
+29,L,Makassar,Pop,Grup,Ya,7,9,8.0,Lolos
+18,P,Makassar,Pop,Grup,Tidak,5,5,5.0,Tidak Lolos
+27,L,Bandung,Dangdut,Grup,Ya,7,3,5.0,Tidak Lolos
+24,P,Bandung,Rock,Duo,Tidak,2,5,3.5,Tidak Lolos
+21,P,Medan,Jazz,Duo,Ya,7,3,5.0,Tidak Lolos
+15,P,Makassar,Pop,Solo,Ya,8,5,6.5,Tidak Lolos
+17,L,Jakarta,Dangdut,Duo,Tidak,5,3,4.0,Tidak Lolos
+24,L,Jakarta,Dangdut,Grup,Tidak,7,3,5.0,Tidak Lolos
+24,P,Medan,Rock,Duo,Ya,1,6,3.5,Tidak Lolos
+17,P,Bandung,Rock,Grup,Ya,7,9,8.0,Lolos
+29,L,Bandung,Dangdut,Solo,Tidak,10,5,7.5,Lolos
+23,L,Surabaya,Jazz,Solo,Ya,9,9,9.0,Lolos
+23,L,Medan,Rock,Solo,Ya,6,10,8.0,Lolos
+16,P,Makassar,Rock,Solo,Tidak,10,6,8.0,Lolos
+15,P,Bandung,Pop,Solo,Ya,7,1,4.0,Tidak Lolos
+21,L,Makassar,K-Pop,Solo,Ya,9,1,5.0,Tidak Lolos
+28,P,Surabaya,K-Pop,Solo,Ya,9,2,5.5,Tidak Lolos
+23,L,Medan,K-Pop,Grup,Tidak,8,8,8.0,Lolos
+26,P,Bandung,Rock,Grup,Ya,4,3,3.5,Tidak Lolos
+30,P,Medan,K-Pop,Solo,Ya,1,5,3.0,Tidak Lolos
+19,L,Surabaya,Jazz,Solo,Ya,2,2,2.0,Tidak Lolos
+28,L,Jakarta,Jazz,Solo,Ya,7,6,6.5,Tidak Lolos
+29,L,Medan,K-Pop,Duo,Tidak,7,4,5.5,Tidak Lolos
+18,L,Makassar,K-Pop,Solo,Ya,4,1,2.5,Tidak Lolos
+17,P,Jakarta,K-Pop,Solo,Tidak,7,1,4.0,Tidak Lolos
+18,P,Bandung,Jazz,Solo,Tidak,5,5,5.0,Tidak Lolos
+20,P,Surabaya,Pop,Solo,Tidak,3,5,4.0,Tidak Lolos
+23,P,Medan,K-Pop,Duo,Ya,1,9,5.0,Tidak Lolos
+26,P,Surabaya,K-Pop,Grup,Tidak,8,9,8.5,Lolos
+28,L,Surabaya,Rock,Grup,Ya,6,3,4.5,Tidak Lolos
+23,P,Bandung,Jazz,Duo,Ya,3,5,4.0,Tidak Lolos
+20,L,Makassar,Pop,Duo,Ya,4,1,2.5,Tidak Lolos
+25,P,Jakarta,Rock,Solo,Ya,10,8,9.0,Lolos
+22,P,Jakarta,Jazz,Duo,Tidak,7,10,8.5,Lolos
+17,L,Bandung,Jazz,Duo,Tidak,9,10,9.5,Lolos
+20,L,Surabaya,K-Pop,Duo,Ya,2,6,4.0,Tidak Lolos
+27,P,Makassar,Dangdut,Duo,Tidak,10,9,9.5,Lolos
+30,P,Makassar,K-Pop,Grup,Tidak,4,3,3.5,Tidak Lolos
+26,L,Surabaya,Dangdut,Duo,Tidak,9,3,6.0,Tidak Lolos
+20,P,Jakarta,Pop,Grup,Ya,8,6,7.0,Lolos
+16,L,Medan,Dangdut,Solo,Ya,4,9,6.5,Tidak Lolos
+16,L,Jakarta,Pop,Solo,Ya,5,7,6.0,Tidak Lolos
+17,L,Jakarta,K-Pop,Grup,Ya,9,8,8.5,Lolos
+30,L,Makassar,Jazz,Duo,Ya,7,6,6.5,Tidak Lolos
+26,L,Makassar,Pop,Solo,Ya,1,4,2.5,Tidak Lolos
+17,P,Jakarta,Rock,Grup,Ya,10,2,6.0,Tidak Lolos
+30,L,Surabaya,K-Pop,Grup,Tidak,9,1,5.0,Tidak Lolos
+20,L,Jakarta,Jazz,Solo,Ya,2,8,5.0,Tidak Lolos
+20,L,Makassar,Pop,Duo,Ya,7,9,8.0,Lolos
+30,L,Jakarta,Rock,Duo,Tidak,5,8,6.5,Tidak Lolos
+15,P,Surabaya,K-Pop,Duo,Ya,1,7,4.0,Tidak Lolos
+21,L,Medan,Jazz,Solo,Tidak,8,10,9.0,Lolos
+28,L,Medan,K-Pop,Duo,Ya,6,10,8.0,Lolos
+28,P,Makassar,Jazz,Grup,Ya,7,7,7.0,Lolos
+21,L,Medan,Rock,Grup,Ya,7,7,7.0,Lolos
+16,P,Medan,K-Pop,Solo,Ya,4,3,3.5,Tidak Lolos
+18,P,Surabaya,Jazz,Grup,Ya,7,10,8.5,Lolos
+26,L,Medan,K-Pop,Solo,Ya,10,6,8.0,Lolos
+23,P,Medan,Pop,Solo,Tidak,3,7,5.0,Tidak Lolos
+24,P,Jakarta,Rock,Grup,Tidak,4,4,4.0,Tidak Lolos
+29,L,Jakarta,Dangdut,Solo,Ya,9,2,5.5,Tidak Lolos
+16,L,Surabaya,K-Pop,Duo,Tidak,4,6,5.0,Tidak Lolos
+15,L,Bandung,K-Pop,Solo,Tidak,3,8,5.5,Tidak Lolos
+30,P,Medan,Dangdut,Solo,Ya,3,9,6.0,Tidak Lolos
+19,P,Makassar,Jazz,Grup,Tidak,4,8,6.0,Tidak Lolos
+18,P,Bandung,Jazz,Solo,Ya,8,1,4.5,Tidak Lolos
+30,P,Makassar,Jazz,Grup,Ya,1,10,5.5,Tidak Lolos
+30,P,Makassar,Jazz,Duo,Tidak,3,2,2.5,Tidak Lolos
+28,L,Jakarta,Pop,Duo,Ya,7,3,5.0,Tidak Lolos
+27,L,Makassar,Jazz,Grup,Tidak,3,10,6.5,Tidak Lolos
+15,P,Jakarta,Dangdut,Grup,Tidak,8,2,5.0,Tidak Lolos
+18,L,Bandung,Pop,Solo,Ya,3,5,4.0,Tidak Lolos
+17,L,Jakarta,Rock,Solo,Tidak,10,7,8.5,Lolos
+26,P,Makassar,Pop,Duo,Tidak,5,3,4.0,Tidak Lolos
+23,L,Medan,Rock,Grup,Ya,8,9,8.5,Lolos
+26,P,Medan,K-Pop,Grup,Tidak,6,9,7.5,Lolos
+19,L,Makassar,Rock,Solo,Tidak,9,9,9.0,Lolos
+22,L,Bandung,K-Pop,Duo,Tidak,10,1,5.5,Tidak Lolos
+25,L,Makassar,Jazz,Solo,Tidak,8,2,5.0,Tidak Lolos
+20,L,Jakarta,Rock,Grup,Ya,6,2,4.0,Tidak Lolos
+16,L,Bandung,Jazz,Grup,Ya,8,8,8.0,Lolos
+22,P,Makassar,Jazz,Duo,Tidak,4,6,5.0,Tidak Lolos
+24,P,Medan,Dangdut,Solo,Ya,8,2,5.0,Tidak Lolos
+16,P,Jakarta,Dangdut,Grup,Tidak,1,3,2.0,Tidak Lolos
+15,P,Surabaya,K-Pop,Grup,Ya,6,5,5.5,Tidak Lolos
+27,P,Bandung,Pop,Solo,Ya,10,2,6.0,Tidak Lolos
+19,L,Bandung,Jazz,Duo,Ya,4,9,6.5,Tidak Lolos
+26,P,Medan,Dangdut,Grup,Tidak,4,8,6.0,Tidak Lolos
+27,P,Surabaya,Dangdut,Grup,Tidak,1,7,4.0,Tidak Lolos
+22,L,Surabaya,Rock,Grup,Ya,1,8,4.5,Tidak Lolos
+20,P,Makassar,Rock,Solo,Ya,8,2,5.0,Tidak Lolos
+25,P,Bandung,Pop,Duo,Tidak,3,8,5.5,Tidak Lolos
+27,P,Jakarta,Jazz,Grup,Tidak,4,9,6.5,Tidak Lolos
+25,P,Makassar,Rock,Duo,Tidak,8,6,7.0,Lolos
+17,P,Surabaya,Rock,Duo,Tidak,6,9,7.5,Lolos
+29,P,Bandung,Jazz,Grup,Ya,1,7,4.0,Tidak Lolos
+20,L,Jakarta,Jazz,Solo,Ya,6,5,5.5,Tidak Lolos
+18,P,Surabaya,K-Pop,Solo,Tidak,6,1,3.5,Tidak Lolos
+22,L,Surabaya,K-Pop,Grup,Ya,4,3,3.5,Tidak Lolos
+19,P,Jakarta,K-Pop,Grup,Ya,2,10,6.0,Tidak Lolos
+25,P,Surabaya,Dangdut,Solo,Tidak,1,6,3.5,Tidak Lolos
+21,P,Medan,Pop,Grup,Tidak,1,5,3.0,Tidak Lolos
+29,L,Bandung,Pop,Grup,Tidak,4,10,7.0,Lolos
+15,L,Jakarta,Jazz,Grup,Tidak,10,6,8.0,Lolos
+15,P,Jakarta,Dangdut,Grup,Tidak,4,6,5.0,Tidak Lolos
+26,P,Jakarta,Dangdut,Duo,Ya,9,6,7.5,Lolos
+23,P,Bandung,Dangdut,Solo,Ya,3,6,4.5,Tidak Lolos
+30,P,Surabaya,Jazz,Grup,Ya,10,9,9.5,Lolos
+23,P,Makassar,Jazz,Duo,Tidak,4,2,3.0,Tidak Lolos
+19,L,Medan,K-Pop,Grup,Ya,6,3,4.5,Tidak Lolos
+28,P,Jakarta,Dangdut,Solo,Ya,5,7,6.0,Tidak Lolos
+16,L,Surabaya,K-Pop,Grup,Tidak,1,4,2.5,Tidak Lolos
+27,L,Bandung,K-Pop,Solo,Tidak,7,9,8.0,Lolos
+26,L,Medan,K-Pop,Duo,Ya,5,8,6.5,Tidak Lolos
+27,P,Makassar,K-Pop,Duo,Ya,2,2,2.0,Tidak Lolos
+18,L,Jakarta,Jazz,Grup,Tidak,5,8,6.5,Tidak Lolos
+20,L,Medan,K-Pop,Duo,Ya,6,3,4.5,Tidak Lolos
+19,L,Medan,K-Pop,Duo,Ya,2,9,5.5,Tidak Lolos
+26,L,Makassar,Jazz,Grup,Tidak,2,10,6.0,Tidak Lolos
+16,L,Medan,Pop,Duo,Ya,8,5,6.5,Tidak Lolos
+19,L,Surabaya,Rock,Grup,Ya,10,3,6.5,Tidak Lolos
+18,P,Bandung,Pop,Duo,Tidak,8,5,6.5,Tidak Lolos
+29,L,Bandung,K-Pop,Solo,Ya,3,5,4.0,Tidak Lolos
+25,L,Bandung,Rock,Grup,Ya,7,3,5.0,Tidak Lolos
+17,P,Makassar,K-Pop,Grup,Ya,3,5,4.0,Tidak Lolos
+22,L,Bandung,Jazz,Duo,Tidak,1,4,2.5,Tidak Lolos
+22,L,Bandung,Pop,Duo,Ya,10,8,9.0,Lolos
+18,L,Bandung,Pop,Grup,Tidak,1,7,4.0,Tidak Lolos
+16,L,Jakarta,K-Pop,Duo,Ya,1,5,3.0,Tidak Lolos
+16,P,Bandung,Rock,Solo,Tidak,9,7,8.0,Lolos
+26,L,Bandung,Dangdut,Grup,Ya,3,3,3.0,Tidak Lolos
+28,L,Makassar,Dangdut,Grup,Tidak,3,9,6.0,Tidak Lolos
+17,P,Bandung,Dangdut,Grup,Tidak,9,9,9.0,Lolos
+26,L,Medan,Jazz,Grup,Ya,10,8,9.0,Lolos
+20,L,Surabaya,Dangdut,Duo,Tidak,3,4,3.5,Tidak Lolos
+19,P,Bandung,Dangdut,Duo,Tidak,6,7,6.5,Tidak Lolos
+19,P,Makassar,Dangdut,Solo,Ya,4,8,6.0,Tidak Lolos
+29,L,Jakarta,Pop,Solo,Ya,9,5,7.0,Lolos
+28,P,Jakarta,Dangdut,Duo,Ya,7,7,7.0,Lolos
+22,L,Jakarta,K-Pop,Duo,Tidak,8,1,4.5,Tidak Lolos
+23,L,Bandung,Dangdut,Solo,Ya,9,10,9.5,Lolos
+28,P,Bandung,K-Pop,Solo,Ya,4,5,4.5,Tidak Lolos
+23,L,Surabaya,Rock,Solo,Tidak,10,4,7.0,Lolos
+30,L,Surabaya,K-Pop,Solo,Tidak,1,4,2.5,Tidak Lolos
+25,P,Makassar,Jazz,Grup,Tidak,3,8,5.5,Tidak Lolos
+17,P,Bandung,Dangdut,Duo,Tidak,7,8,7.5,Lolos
+26,P,Makassar,Dangdut,Duo,Ya,7,10,8.5,Lolos
+20,L,Makassar,Rock,Grup,Ya,7,9,8.0,Lolos
+26,L,Bandung,Dangdut,Grup,Tidak,8,5,6.5,Tidak Lolos
+30,P,Jakarta,Rock,Duo,Tidak,5,4,4.5,Tidak Lolos
+17,L,Bandung,Jazz,Grup,Tidak,9,5,7.0,Lolos
+16,P,Jakarta,K-Pop,Solo,Tidak,10,2,6.0,Tidak Lolos
+29,L,Makassar,K-Pop,Solo,Ya,9,3,6.0,Tidak Lolos
+19,P,Makassar,Jazz,Duo,Tidak,1,1,1.0,Tidak Lolos
+23,L,Bandung,K-Pop,Duo,Ya,3,2,2.5,Tidak Lolos
+25,L,Surabaya,K-Pop,Solo,Tidak,4,9,6.5,Tidak Lolos
+16,L,Makassar,Dangdut,Duo,Tidak,6,4,5.0,Tidak Lolos
+24,P,Surabaya,Jazz,Solo,Ya,2,7,4.5,Tidak Lolos
+29,P,Surabaya,Dangdut,Solo,Ya,7,2,4.5,Tidak Lolos
+18,L,Medan,Dangdut,Grup,Ya,3,3,3.0,Tidak Lolos
+15,L,Medan,K-Pop,Duo,Tidak,7,5,6.0,Tidak Lolos
+21,P,Makassar,Jazz,Solo,Tidak,2,7,4.5,Tidak Lolos
+24,P,Medan,Pop,Grup,Tidak,2,6,4.0,Tidak Lolos
+30,P,Makassar,Dangdut,Duo,Tidak,9,2,5.5,Tidak Lolos
+24,P,Makassar,Rock,Duo,Tidak,5,9,7.0,Lolos
+28,P,Makassar,Pop,Grup,Tidak,1,5,3.0,Tidak Lolos
+19,P,Bandung,Pop,Duo,Ya,3,3,3.0,Tidak Lolos
+22,P,Jakarta,Pop,Solo,Ya,4,3,3.5,Tidak Lolos
+20,L,Jakarta,Dangdut,Grup,Tidak,1,1,1.0,Tidak Lolos
+23,L,Jakarta,K-Pop,Duo,Tidak,9,3,6.0,Tidak Lolos
+17,P,Bandung,Rock,Grup,Tidak,2,3,2.5,Tidak Lolos
+16,L,Jakarta,K-Pop,Solo,Tidak,6,9,7.5,Lolos
+18,P,Makassar,K-Pop,Grup,Tidak,1,3,2.0,Tidak Lolos
+20,P,Medan,K-Pop,Solo,Tidak,9,9,9.0,Lolos
+24,P,Medan,Pop,Solo,Tidak,8,7,7.5,Lolos
+23,P,Bandung,Dangdut,Grup,Ya,5,3,4.0,Tidak Lolos
+29,P,Bandung,Pop,Grup,Tidak,8,2,5.0,Tidak Lolos
+27,L,Surabaya,Pop,Grup,Ya,5,3,4.0,Tidak Lolos
+27,P,Medan,Rock,Duo,Tidak,9,10,9.5,Lolos
+16,L,Jakarta,Rock,Duo,Tidak,8,10,9.0,Lolos
+18,L,Makassar,Rock,Solo,Tidak,6,4,5.0,Tidak Lolos
+15,P,Jakarta,Jazz,Duo,Ya,4,4,4.0,Tidak Lolos
+23,L,Medan,Jazz,Solo,Ya,9,4,6.5,Tidak Lolos
+23,L,Makassar,Jazz,Solo,Tidak,7,4,5.5,Tidak Lolos
+21,P,Surabaya,K-Pop,Duo,Tidak,9,7,8.0,Lolos
+16,P,Bandung,Dangdut,Duo,Ya,5,3,4.0,Tidak Lolos
+15,P,Bandung,Jazz,Solo,Ya,2,2,2.0,Tidak Lolos
+18,P,Jakarta,Rock,Duo,Tidak,3,8,5.5,Tidak Lolos
+21,L,Bandung,Pop,Grup,Tidak,3,5,4.0,Tidak Lolos
+18,P,Bandung,Dangdut,Grup,Ya,1,5,3.0,Tidak Lolos
+25,L,Makassar,Dangdut,Solo,Ya,10,9,9.5,Lolos
+28,P,Medan,K-Pop,Grup,Ya,2,9,5.5,Tidak Lolos
+23,P,Jakarta,K-Pop,Grup,Ya,7,3,5.0,Tidak Lolos
+22,P,Surabaya,K-Pop,Duo,Ya,8,8,8.0,Lolos
+29,P,Makassar,K-Pop,Grup,Ya,6,3,4.5,Tidak Lolos
+20,P,Medan,Dangdut,Grup,Tidak,7,2,4.5,Tidak Lolos
+20,L,Bandung,Jazz,Solo,Tidak,1,4,2.5,Tidak Lolos
+27,P,Jakarta,Dangdut,Grup,Tidak,2,5,3.5,Tidak Lolos
+16,P,Jakarta,Rock,Duo,Ya,9,2,5.5,Tidak Lolos
+18,P,Jakarta,Pop,Duo,Tidak,3,10,6.5,Tidak Lolos
+19,L,Jakarta,Dangdut,Solo,Tidak,2,3,2.5,Tidak Lolos
+25,L,Surabaya,Rock,Grup,Ya,2,8,5.0,Tidak Lolos
+29,P,Jakarta,Rock,Duo,Ya,3,8,5.5,Tidak Lolos
+24,P,Medan,Pop,Duo,Ya,5,6,5.5,Tidak Lolos
+25,P,Makassar,K-Pop,Grup,Tidak,6,2,4.0,Tidak Lolos
+26,P,Surabaya,Jazz,Solo,Ya,6,1,3.5,Tidak Lolos
+24,P,Medan,Pop,Solo,Ya,5,7,6.0,Tidak Lolos
+24,L,Makassar,Rock,Duo,Tidak,9,1,5.0,Tidak Lolos
+26,P,Makassar,Dangdut,Solo,Ya,6,10,8.0,Lolos
+17,P,Makassar,Rock,Duo,Tidak,2,6,4.0,Tidak Lolos
+17,L,Bandung,K-Pop,Grup,Tidak,10,3,6.5,Tidak Lolos
+23,L,Makassar,K-Pop,Solo,Ya,7,7,7.0,Lolos
+21,L,Bandung,Jazz,Solo,Ya,10,8,9.0,Lolos
+17,L,Jakarta,Jazz,Solo,Tidak,5,6,5.5,Tidak Lolos
+20,P,Medan,Dangdut,Solo,Ya,1,8,4.5,Tidak Lolos
+19,P,Makassar,Dangdut,Grup,Tidak,2,1,1.5,Tidak Lolos
+28,P,Jakarta,Dangdut,Duo,Ya,7,4,5.5,Tidak Lolos
+16,P,Medan,Rock,Solo,Tidak,2,4,3.0,Tidak Lolos
+26,P,Bandung,K-Pop,Grup,Ya,9,9,9.0,Lolos
+28,L,Medan,K-Pop,Solo,Tidak,6,4,5.0,Tidak Lolos
+16,L,Medan,Rock,Duo,Tidak,2,2,2.0,Tidak Lolos
+28,L,Medan,Dangdut,Grup,Tidak,2,7,4.5,Tidak Lolos
+25,L,Bandung,Dangdut,Duo,Tidak,8,9,8.5,Lolos
+23,P,Surabaya,K-Pop,Solo,Ya,5,1,3.0,Tidak Lolos
+25,L,Jakarta,Rock,Grup,Ya,6,2,4.0,Tidak Lolos
+24,P,Makassar,Jazz,Grup,Ya,7,9,8.0,Lolos
+21,P,Medan,Dangdut,Grup,Tidak,4,2,3.0,Tidak Lolos
+16,P,Surabaya,K-Pop,Duo,Tidak,2,5,3.5,Tidak Lolos
+16,L,Jakarta,Pop,Solo,Tidak,10,2,6.0,Tidak Lolos
+22,L,Jakarta,Dangdut,Grup,Ya,6,2,4.0,Tidak Lolos
+21,P,Bandung,Rock,Solo,Ya,4,3,3.5,Tidak Lolos
+28,L,Makassar,Rock,Solo,Tidak,4,9,6.5,Tidak Lolos
+30,L,Bandung,Rock,Solo,Tidak,1,1,1.0,Tidak Lolos
+21,L,Bandung,Rock,Grup,Ya,7,7,7.0,Lolos
+18,L,Medan,Dangdut,Grup,Ya,3,2,2.5,Tidak Lolos
+15,L,Makassar,Rock,Grup,Tidak,8,3,5.5,Tidak Lolos
+26,L,Makassar,Jazz,Solo,Tidak,3,3,3.0,Tidak Lolos
+29,P,Makassar,Pop,Grup,Ya,5,5,5.0,Tidak Lolos
+27,L,Makassar,Pop,Solo,Ya,3,3,3.0,Tidak Lolos
+26,P,Jakarta,K-Pop,Solo,Tidak,7,9,8.0,Lolos
+24,P,Makassar,Pop,Solo,Tidak,10,3,6.5,Tidak Lolos
+26,L,Medan,Rock,Grup,Tidak,9,5,7.0,Lolos
+20,L,Bandung,Rock,Duo,Tidak,1,5,3.0,Tidak Lolos
+24,L,Surabaya,K-Pop,Grup,Tidak,3,4,3.5,Tidak Lolos
+29,P,Bandung,Rock,Solo,Ya,2,4,3.0,Tidak Lolos
+24,L,Medan,K-Pop,Duo,Ya,5,4,4.5,Tidak Lolos
+30,L,Medan,Rock,Grup,Tidak,7,3,5.0,Tidak Lolos
+16,P,Surabaya,K-Pop,Grup,Tidak,2,8,5.0,Tidak Lolos
+30,P,Medan,Rock,Grup,Ya,6,1,3.5,Tidak Lolos
+16,L,Surabaya,Jazz,Grup,Tidak,4,1,2.5,Tidak Lolos
+18,P,Medan,Jazz,Solo,Ya,7,10,8.5,Lolos
+20,P,Makassar,Rock,Grup,Tidak,5,3,4.0,Tidak Lolos
+20,L,Bandung,Dangdut,Solo,Ya,7,3,5.0,Tidak Lolos
+18,P,Makassar,Jazz,Solo,Ya,7,10,8.5,Lolos
+22,P,Makassar,Dangdut,Solo,Ya,4,10,7.0,Lolos
+22,L,Jakarta,K-Pop,Solo,Ya,1,7,4.0,Tidak Lolos
+28,L,Jakarta,Dangdut,Solo,Tidak,4,5,4.5,Tidak Lolos
+19,P,Makassar,K-Pop,Duo,Ya,8,10,9.0,Lolos
+26,P,Bandung,Pop,Grup,Ya,8,10,9.0,Lolos
+22,P,Medan,Rock,Duo,Tidak,9,6,7.5,Lolos
+29,L,Surabaya,Pop,Solo,Tidak,6,10,8.0,Lolos
+16,L,Medan,Rock,Grup,Ya,9,6,7.5,Lolos
+30,L,Medan,Dangdut,Solo,Ya,5,5,5.0,Tidak Lolos
+20,P,Bandung,Dangdut,Duo,Tidak,6,2,4.0,Tidak Lolos
+20,L,Makassar,Dangdut,Solo,Ya,9,4,6.5,Tidak Lolos
+25,L,Bandung,Rock,Solo,Tidak,6,2,4.0,Tidak Lolos
+19,P,Medan,Rock,Solo,Ya,6,9,7.5,Lolos
+18,L,Makassar,Rock,Duo,Ya,3,7,5.0,Tidak Lolos
+28,P,Medan,Rock,Duo,Ya,5,6,5.5,Tidak Lolos
+26,L,Surabaya,Dangdut,Grup,Ya,7,2,4.5,Tidak Lolos
+21,L,Medan,Dangdut,Duo,Tidak,5,6,5.5,Tidak Lolos
+21,P,Medan,Dangdut,Solo,Tidak,5,8,6.5,Tidak Lolos
+27,L,Makassar,Pop,Duo,Tidak,10,9,9.5,Lolos
+15,P,Makassar,Pop,Grup,Tidak,10,1,5.5,Tidak Lolos
+24,L,Medan,K-Pop,Grup,Tidak,2,9,5.5,Tidak Lolos
+19,P,Medan,Jazz,Grup,Ya,5,3,4.0,Tidak Lolos
+24,L,Surabaya,Pop,Solo,Ya,10,5,7.5,Lolos
+30,P,Medan,K-Pop,Solo,Ya,9,10,9.5,Lolos
+23,P,Makassar,K-Pop,Duo,Tidak,9,4,6.5,Tidak Lolos
+29,P,Medan,Jazz,Duo,Tidak,6,3,4.5,Tidak Lolos
+26,L,Medan,Dangdut,Duo,Tidak,9,4,6.5,Tidak Lolos
+15,P,Bandung,K-Pop,Solo,Tidak,9,3,6.0,Tidak Lolos
+29,P,Bandung,Pop,Duo,Tidak,3,10,6.5,Tidak Lolos
+16,L,Jakarta,Dangdut,Duo,Ya,1,6,3.5,Tidak Lolos
+30,L,Jakarta,Rock,Duo,Tidak,8,4,6.0,Tidak Lolos
+21,P,Medan,K-Pop,Grup,Tidak,4,8,6.0,Tidak Lolos
+23,L,Makassar,K-Pop,Duo,Tidak,7,6,6.5,Tidak Lolos
+21,P,Makassar,Jazz,Duo,Tidak,8,10,9.0,Lolos
+16,L,Medan,Jazz,Grup,Tidak,9,9,9.0,Lolos
+25,P,Medan,Pop,Grup,Ya,9,7,8.0,Lolos
+24,L,Makassar,Jazz,Duo,Ya,6,6,6.0,Tidak Lolos
+17,P,Bandung,Jazz,Grup,Tidak,10,5,7.5,Lolos
+29,L,Makassar,Rock,Grup,Ya,4,8,6.0,Tidak Lolos
+22,P,Bandung,K-Pop,Grup,Tidak,6,6,6.0,Tidak Lolos
+30,P,Makassar,K-Pop,Solo,Tidak,3,4,3.5,Tidak Lolos
+15,L,Jakarta,Dangdut,Solo,Ya,1,10,5.5,Tidak Lolos
+30,L,Surabaya,Jazz,Solo,Ya,1,4,2.5,Tidak Lolos
+29,P,Medan,Pop,Solo,Tidak,9,10,9.5,Lolos
+29,L,Jakarta,Jazz,Grup,Tidak,7,1,4.0,Tidak Lolos
+22,P,Jakarta,Pop,Solo,Ya,6,3,4.5,Tidak Lolos
+23,P,Bandung,Jazz,Solo,Tidak,9,8,8.5,Lolos
+30,L,Makassar,Dangdut,Grup,Tidak,9,4,6.5,Tidak Lolos
+29,P,Medan,Jazz,Grup,Ya,5,2,3.5,Tidak Lolos
+25,P,Surabaya,Pop,Grup,Tidak,6,7,6.5,Tidak Lolos
+23,P,Medan,K-Pop,Solo,Tidak,4,7,5.5,Tidak Lolos
+16,L,Jakarta,Jazz,Solo,Tidak,5,9,7.0,Lolos
+24,L,Makassar,K-Pop,Solo,Tidak,1,4,2.5,Tidak Lolos
+15,L,Jakarta,Dangdut,Grup,Tidak,3,8,5.5,Tidak Lolos
+22,P,Medan,Rock,Solo,Tidak,6,6,6.0,Tidak Lolos
+23,L,Bandung,K-Pop,Solo,Ya,5,3,4.0,Tidak Lolos
+16,P,Jakarta,Dangdut,Grup,Tidak,2,8,5.0,Tidak Lolos
+28,L,Surabaya,K-Pop,Grup,Ya,6,2,4.0,Tidak Lolos
+18,P,Bandung,Jazz,Solo,Tidak,10,1,5.5,Tidak Lolos
+17,P,Surabaya,Rock,Solo,Tidak,1,4,2.5,Tidak Lolos
+18,L,Makassar,Rock,Duo,Tidak,2,8,5.0,Tidak Lolos
+18,P,Jakarta,Pop,Solo,Ya,8,2,5.0,Tidak Lolos
+24,L,Medan,Dangdut,Grup,Ya,10,4,7.0,Lolos
+24,L,Bandung,Jazz,Duo,Tidak,10,3,6.5,Tidak Lolos
+16,P,Bandung,Pop,Duo,Tidak,9,6,7.5,Lolos
+20,L,Surabaya,Pop,Solo,Tidak,6,1,3.5,Tidak Lolos
+24,L,Surabaya,Pop,Grup,Ya,5,2,3.5,Tidak Lolos
+21,P,Makassar,Rock,Duo,Tidak,6,1,3.5,Tidak Lolos
+16,L,Surabaya,K-Pop,Solo,Ya,4,5,4.5,Tidak Lolos
+23,L,Medan,Rock,Duo,Tidak,2,4,3.0,Tidak Lolos
+24,L,Medan,Dangdut,Grup,Ya,8,9,8.5,Lolos
+27,L,Makassar,Pop,Solo,Ya,6,2,4.0,Tidak Lolos
+20,P,Jakarta,K-Pop,Duo,Ya,7,5,6.0,Tidak Lolos
+23,L,Makassar,Rock,Duo,Ya,7,5,6.0,Tidak Lolos
+26,P,Jakarta,Rock,Grup,Tidak,5,1,3.0,Tidak Lolos
+28,P,Medan,Dangdut,Solo,Ya,9,2,5.5,Tidak Lolos
+18,P,Bandung,Dangdut,Solo,Tidak,8,3,5.5,Tidak Lolos
+21,P,Jakarta,Dangdut,Solo,Tidak,4,9,6.5,Tidak Lolos
+29,L,Makassar,Dangdut,Solo,Ya,7,8,7.5,Lolos
+25,L,Medan,Pop,Solo,Tidak,8,1,4.5,Tidak Lolos
+30,L,Surabaya,K-Pop,Grup,Tidak,3,4,3.5,Tidak Lolos
+15,L,Bandung,Dangdut,Solo,Ya,9,9,9.0,Lolos
+28,P,Surabaya,Rock,Solo,Ya,8,2,5.0,Tidak Lolos
+27,L,Jakarta,Pop,Solo,Tidak,1,5,3.0,Tidak Lolos
+28,L,Bandung,K-Pop,Grup,Tidak,4,6,5.0,Tidak Lolos
+30,P,Makassar,Dangdut,Grup,Ya,7,1,4.0,Tidak Lolos
+25,P,Makassar,Rock,Grup,Ya,9,6,7.5,Lolos
+22,L,Bandung,Pop,Grup,Ya,6,1,3.5,Tidak Lolos
+27,P,Makassar,Pop,Duo,Tidak,3,8,5.5,Tidak Lolos
+28,P,Makassar,Rock,Duo,Ya,9,8,8.5,Lolos
+26,L,Surabaya,Rock,Grup,Ya,9,4,6.5,Tidak Lolos
+21,L,Surabaya,Dangdut,Solo,Tidak,5,1,3.0,Tidak Lolos
+25,L,Makassar,K-Pop,Duo,Tidak,6,10,8.0,Lolos
+29,P,Medan,Pop,Grup,Tidak,8,1,4.5,Tidak Lolos
+26,L,Makassar,Rock,Solo,Ya,4,7,5.5,Tidak Lolos
+23,P,Surabaya,Jazz,Duo,Ya,9,2,5.5,Tidak Lolos
+17,L,Medan,Pop,Solo,Tidak,2,2,2.0,Tidak Lolos
+24,L,Bandung,Rock,Grup,Ya,10,3,6.5,Tidak Lolos
+23,L,Surabaya,Pop,Solo,Ya,6,4,5.0,Tidak Lolos
+26,L,Surabaya,K-Pop,Grup,Ya,5,2,3.5,Tidak Lolos
+20,L,Bandung,Pop,Grup,Ya,7,9,8.0,Lolos
+17,P,Makassar,Rock,Solo,Ya,7,10,8.5,Lolos
+22,L,Bandung,Pop,Solo,Tidak,5,2,3.5,Tidak Lolos
+24,L,Surabaya,Jazz,Duo,Ya,4,5,4.5,Tidak Lolos
+22,L,Surabaya,Jazz,Duo,Tidak,1,5,3.0,Tidak Lolos
+28,P,Bandung,Rock,Grup,Ya,6,8,7.0,Lolos
+30,P,Bandung,Pop,Solo,Tidak,3,9,6.0,Tidak Lolos
+23,L,Surabaya,K-Pop,Duo,Tidak,1,8,4.5,Tidak Lolos
+16,P,Makassar,Jazz,Solo,Ya,7,5,6.0,Tidak Lolos
+25,L,Medan,Dangdut,Grup,Ya,1,10,5.5,Tidak Lolos
+16,L,Surabaya,Pop,Grup,Tidak,3,10,6.5,Tidak Lolos
+27,P,Bandung,Dangdut,Duo,Ya,7,10,8.5,Lolos
+19,P,Makassar,Jazz,Duo,Tidak,7,3,5.0,Tidak Lolos
+17,L,Surabaya,Jazz,Grup,Ya,10,5,7.5,Lolos
+16,P,Bandung,Dangdut,Solo,Ya,1,8,4.5,Tidak Lolos
+28,P,Jakarta,K-Pop,Duo,Ya,3,2,2.5,Tidak Lolos
+17,L,Surabaya,Pop,Grup,Tidak,3,1,2.0,Tidak Lolos
+18,L,Makassar,Pop,Grup,Tidak,1,7,4.0,Tidak Lolos
+24,L,Makassar,Dangdut,Solo,Ya,6,1,3.5,Tidak Lolos
+27,L,Surabaya,Rock,Grup,Tidak,7,2,4.5,Tidak Lolos
+19,P,Medan,Rock,Duo,Tidak,9,4,6.5,Tidak Lolos
+23,L,Jakarta,Pop,Duo,Tidak,9,5,7.0,Lolos
+21,L,Makassar,Rock,Grup,Ya,5,7,6.0,Tidak Lolos
+24,P,Surabaya,Rock,Grup,Tidak,4,8,6.0,Tidak Lolos
+28,P,Makassar,K-Pop,Grup,Tidak,4,2,3.0,Tidak Lolos
+26,P,Surabaya,Dangdut,Solo,Ya,8,8,8.0,Lolos
+30,L,Medan,Dangdut,Solo,Ya,9,3,6.0,Tidak Lolos
+17,L,Surabaya,Pop,Duo,Tidak,10,2,6.0,Tidak Lolos
+18,L,Medan,Jazz,Grup,Ya,9,9,9.0,Lolos
+16,P,Makassar,Dangdut,Solo,Tidak,9,10,9.5,Lolos
+24,P,Bandung,K-Pop,Solo,Tidak,3,10,6.5,Tidak Lolos
+29,L,Surabaya,Pop,Solo,Tidak,7,1,4.0,Tidak Lolos
+29,L,Makassar,Rock,Solo,Tidak,9,10,9.5,Lolos
+18,L,Makassar,Jazz,Solo,Tidak,5,9,7.0,Lolos
+18,P,Makassar,K-Pop,Grup,Tidak,2,7,4.5,Tidak Lolos
+30,P,Jakarta,Jazz,Grup,Tidak,2,6,4.0,Tidak Lolos
+27,L,Jakarta,Dangdut,Duo,Tidak,10,9,9.5,Lolos
+23,P,Makassar,Pop,Solo,Ya,5,6,5.5,Tidak Lolos
+17,P,Bandung,Dangdut,Duo,Ya,2,4,3.0,Tidak Lolos
+18,L,Bandung,K-Pop,Duo,Ya,9,4,6.5,Tidak Lolos
+30,P,Jakarta,Rock,Grup,Ya,5,9,7.0,Lolos
+30,P,Medan,K-Pop,Solo,Tidak,5,9,7.0,Lolos
+28,P,Makassar,Dangdut,Duo,Ya,7,10,8.5,Lolos
+30,P,Makassar,Dangdut,Duo,Ya,3,6,4.5,Tidak Lolos
+15,P,Bandung,Pop,Solo,Tidak,6,10,8.0,Lolos
+18,L,Makassar,K-Pop,Grup,Ya,1,6,3.5,Tidak Lolos
+20,L,Makassar,Rock,Duo,Ya,2,6,4.0,Tidak Lolos
+28,P,Bandung,Jazz,Duo,Tidak,10,1,5.5,Tidak Lolos
+19,L,Jakarta,Rock,Grup,Ya,7,4,5.5,Tidak Lolos
+22,P,Jakarta,K-Pop,Solo,Ya,1,4,2.5,Tidak Lolos
+23,L,Medan,Pop,Grup,Tidak,2,9,5.5,Tidak Lolos
+25,L,Jakarta,Pop,Solo,Tidak,7,2,4.5,Tidak Lolos
+21,P,Makassar,Rock,Duo,Ya,9,6,7.5,Lolos
+26,L,Medan,Rock,Solo,Ya,4,2,3.0,Tidak Lolos
+19,P,Bandung,Dangdut,Solo,Ya,3,9,6.0,Tidak Lolos
+24,P,Medan,Jazz,Solo,Ya,6,5,5.5,Tidak Lolos
+29,L,Jakarta,Dangdut,Solo,Ya,3,1,2.0,Tidak Lolos
+15,P,Makassar,Dangdut,Duo,Tidak,10,1,5.5,Tidak Lolos
+24,L,Makassar,Rock,Duo,Tidak,9,9,9.0,Lolos
+20,P,Makassar,Jazz,Solo,Ya,2,10,6.0,Tidak Lolos
+29,P,Makassar,Rock,Duo,Ya,5,8,6.5,Tidak Lolos
+30,L,Makassar,Jazz,Duo,Ya,6,10,8.0,Lolos
+16,L,Surabaya,Pop,Solo,Ya,1,7,4.0,Tidak Lolos
+16,P,Makassar,Rock,Solo,Tidak,4,7,5.5,Tidak Lolos
+22,P,Surabaya,Pop,Duo,Tidak,5,9,7.0,Lolos
+30,L,Surabaya,Pop,Grup,Tidak,10,9,9.5,Lolos
+18,P,Jakarta,Rock,Solo,Tidak,8,10,9.0,Lolos
+24,P,Bandung,K-Pop,Solo,Tidak,10,9,9.5,Lolos
+25,L,Medan,Dangdut,Solo,Tidak,7,10,8.5,Lolos
+16,L,Medan,Pop,Grup,Ya,10,3,6.5,Tidak Lolos
+20,P,Bandung,Dangdut,Solo,Tidak,8,4,6.0,Tidak Lolos
+24,L,Jakarta,Dangdut,Grup,Tidak,9,10,9.5,Lolos
+27,L,Bandung,Jazz,Grup,Ya,10,10,10.0,Lolos
+15,L,Medan,K-Pop,Grup,Tidak,10,8,9.0,Lolos
+23,L,Medan,Jazz,Solo,Tidak,6,4,5.0,Tidak Lolos
+30,L,Medan,Jazz,Duo,Ya,2,6,4.0,Tidak Lolos
+19,L,Medan,Rock,Solo,Ya,9,4,6.5,Tidak Lolos
+30,P,Surabaya,Rock,Duo,Ya,2,4,3.0,Tidak Lolos
+19,L,Bandung,Rock,Grup,Ya,10,1,5.5,Tidak Lolos
+25,P,Bandung,Dangdut,Duo,Tidak,7,7,7.0,Lolos
+17,P,Jakarta,Dangdut,Solo,Tidak,5,5,5.0,Tidak Lolos
+23,P,Makassar,Rock,Grup,Ya,7,10,8.5,Lolos
+20,P,Surabaya,Rock,Duo,Tidak,10,10,10.0,Lolos
+17,P,Medan,Dangdut,Duo,Ya,1,8,4.5,Tidak Lolos
+22,P,Bandung,K-Pop,Duo,Tidak,2,2,2.0,Tidak Lolos
+27,L,Surabaya,K-Pop,Solo,Ya,8,5,6.5,Tidak Lolos
+15,P,Surabaya,Jazz,Duo,Tidak,7,8,7.5,Lolos
+29,L,Makassar,Pop,Grup,Tidak,7,8,7.5,Lolos
+22,P,Makassar,Rock,Solo,Tidak,10,7,8.5,Lolos
+27,P,Surabaya,Rock,Grup,Ya,4,4,4.0,Tidak Lolos
+29,P,Medan,Dangdut,Grup,Ya,7,6,6.5,Tidak Lolos
+27,P,Medan,Dangdut,Duo,Tidak,9,9,9.0,Lolos
+23,L,Medan,Pop,Duo,Ya,2,2,2.0,Tidak Lolos
+18,P,Makassar,Dangdut,Grup,Tidak,6,6,6.0,Tidak Lolos
+25,L,Surabaya,Jazz,Solo,Tidak,8,3,5.5,Tidak Lolos
+28,P,Surabaya,Dangdut,Solo,Ya,10,5,7.5,Lolos
+29,P,Bandung,Rock,Duo,Tidak,7,9,8.0,Lolos
+17,L,Medan,Jazz,Solo,Ya,9,10,9.5,Lolos
+29,P,Makassar,Jazz,Grup,Tidak,7,1,4.0,Tidak Lolos
+23,L,Surabaya,Pop,Duo,Tidak,5,9,7.0,Lolos
+17,L,Makassar,Dangdut,Grup,Tidak,3,1,2.0,Tidak Lolos
+18,P,Jakarta,Dangdut,Solo,Tidak,7,10,8.5,Lolos
+20,L,Jakarta,K-Pop,Grup,Tidak,8,7,7.5,Lolos
+19,L,Jakarta,Dangdut,Grup,Ya,5,9,7.0,Lolos
+23,L,Jakarta,Jazz,Duo,Ya,6,9,7.5,Lolos
+16,L,Bandung,K-Pop,Solo,Tidak,10,8,9.0,Lolos
+23,L,Jakarta,Dangdut,Duo,Tidak,3,6,4.5,Tidak Lolos
+18,L,Jakarta,Jazz,Duo,Ya,9,9,9.0,Lolos
+27,L,Bandung,Rock,Duo,Tidak,2,8,5.0,Tidak Lolos
+22,L,Jakarta,K-Pop,Duo,Tidak,2,6,4.0,Tidak Lolos
+25,P,Medan,Rock,Solo,Tidak,4,10,7.0,Lolos
+30,L,Medan,Dangdut,Solo,Ya,10,8,9.0,Lolos
+28,L,Jakarta,Rock,Solo,Ya,8,10,9.0,Lolos
+17,L,Bandung,Pop,Grup,Ya,6,9,7.5,Lolos
+22,P,Makassar,Dangdut,Grup,Tidak,8,4,6.0,Tidak Lolos
+30,L,Medan,Jazz,Solo,Ya,10,7,8.5,Lolos
+24,L,Makassar,Jazz,Duo,Tidak,9,4,6.5,Tidak Lolos
+18,P,Surabaya,K-Pop,Duo,Tidak,2,8,5.0,Tidak Lolos
+21,L,Medan,K-Pop,Duo,Tidak,8,3,5.5,Tidak Lolos
+15,L,Jakarta,Rock,Grup,Ya,7,9,8.0,Lolos
+27,L,Surabaya,Rock,Solo,Ya,2,9,5.5,Tidak Lolos
+22,P,Surabaya,Rock,Grup,Ya,2,8,5.0,Tidak Lolos
+16,P,Jakarta,K-Pop,Duo,Tidak,3,3,3.0,Tidak Lolos
+18,P,Makassar,Dangdut,Duo,Tidak,10,2,6.0,Tidak Lolos
+23,P,Surabaya,Pop,Solo,Ya,4,3,3.5,Tidak Lolos
+21,L,Bandung,Pop,Grup,Ya,9,8,8.5,Lolos
+28,L,Bandung,K-Pop,Duo,Tidak,8,9,8.5,Lolos
+28,L,Surabaya,Dangdut,Grup,Tidak,7,10,8.5,Lolos
+19,P,Makassar,K-Pop,Duo,Ya,10,2,6.0,Tidak Lolos
+15,L,Medan,Jazz,Duo,Tidak,3,7,5.0,Tidak Lolos
+28,P,Surabaya,Pop,Grup,Tidak,9,3,6.0,Tidak Lolos
+29,P,Surabaya,Pop,Duo,Tidak,4,10,7.0,Lolos
+18,L,Makassar,Pop,Duo,Ya,4,6,5.0,Tidak Lolos
+26,L,Makassar,Pop,Grup,Tidak,8,8,8.0,Lolos
+17,P,Surabaya,Rock,Duo,Tidak,3,10,6.5,Tidak Lolos
+30,L,Medan,Pop,Grup,Tidak,6,5,5.5,Tidak Lolos
+19,P,Surabaya,Rock,Grup,Tidak,6,9,7.5,Lolos
+21,P,Medan,Jazz,Solo,Tidak,5,4,4.5,Tidak Lolos
+23,L,Jakarta,K-Pop,Grup,Tidak,1,5,3.0,Tidak Lolos
+21,L,Surabaya,Pop,Solo,Tidak,3,6,4.5,Tidak Lolos
+16,L,Medan,Pop,Solo,Tidak,1,9,5.0,Tidak Lolos
+16,L,Jakarta,Rock,Solo,Tidak,3,6,4.5,Tidak Lolos
+16,P,Bandung,Pop,Grup,Tidak,9,1,5.0,Tidak Lolos
+21,P,Jakarta,K-Pop,Duo,Tidak,10,10,10.0,Lolos
+15,P,Makassar,Dangdut,Grup,Tidak,7,8,7.5,Lolos
+22,P,Makassar,Jazz,Duo,Tidak,2,5,3.5,Tidak Lolos
+21,P,Surabaya,Rock,Grup,Ya,6,7,6.5,Tidak Lolos
+25,P,Bandung,Pop,Solo,Tidak,1,7,4.0,Tidak Lolos
+28,L,Makassar,Rock,Duo,Tidak,3,10,6.5,Tidak Lolos
+17,P,Bandung,Rock,Duo,Ya,6,3,4.5,Tidak Lolos
+17,P,Medan,Pop,Solo,Ya,2,9,5.5,Tidak Lolos
+23,L,Medan,Jazz,Grup,Ya,5,5,5.0,Tidak Lolos
+28,P,Jakarta,K-Pop,Solo,Ya,5,1,3.0,Tidak Lolos
+30,L,Bandung,Pop,Solo,Ya,5,7,6.0,Tidak Lolos
+23,P,Medan,K-Pop,Grup,Tidak,10,1,5.5,Tidak Lolos
+22,L,Medan,Rock,Duo,Tidak,7,4,5.5,Tidak Lolos
+16,L,Bandung,Jazz,Solo,Ya,7,6,6.5,Tidak Lolos
+21,L,Bandung,Pop,Duo,Tidak,6,5,5.5,Tidak Lolos
+22,L,Jakarta,Dangdut,Duo,Tidak,4,6,5.0,Tidak Lolos
+19,P,Makassar,Pop,Duo,Tidak,6,10,8.0,Lolos
+27,L,Bandung,K-Pop,Grup,Tidak,9,9,9.0,Lolos
+16,L,Jakarta,Dangdut,Duo,Tidak,1,1,1.0,Tidak Lolos
+20,P,Makassar,Dangdut,Solo,Tidak,8,8,8.0,Lolos
+30,L,Jakarta,Rock,Grup,Ya,7,3,5.0,Tidak Lolos
+25,L,Medan,Rock,Duo,Tidak,9,2,5.5,Tidak Lolos
+28,L,Jakarta,Jazz,Grup,Tidak,2,10,6.0,Tidak Lolos
+28,L,Medan,Dangdut,Duo,Tidak,4,4,4.0,Tidak Lolos
+21,P,Bandung,Dangdut,Duo,Tidak,1,9,5.0,Tidak Lolos
+24,L,Surabaya,Dangdut,Solo,Tidak,5,1,3.0,Tidak Lolos
+28,L,Medan,Jazz,Duo,Ya,1,7,4.0,Tidak Lolos
+19,P,Medan,Dangdut,Grup,Tidak,4,8,6.0,Tidak Lolos
+19,L,Medan,Rock,Grup,Ya,8,3,5.5,Tidak Lolos
+28,L,Jakarta,K-Pop,Solo,Ya,1,6,3.5,Tidak Lolos
+21,L,Jakarta,Rock,Duo,Tidak,3,3,3.0,Tidak Lolos
+25,L,Bandung,Dangdut,Duo,Tidak,2,7,4.5,Tidak Lolos
+18,P,Medan,Pop,Solo,Ya,8,1,4.5,Tidak Lolos
+19,L,Jakarta,Rock,Grup,Ya,4,7,5.5,Tidak Lolos
+17,P,Medan,Rock,Grup,Tidak,8,3,5.5,Tidak Lolos
+15,P,Medan,Pop,Duo,Tidak,1,10,5.5,Tidak Lolos
+25,L,Medan,Pop,Solo,Ya,2,3,2.5,Tidak Lolos
+17,L,Bandung,Pop,Solo,Ya,3,3,3.0,Tidak Lolos
+28,P,Bandung,Jazz,Duo,Ya,7,7,7.0,Lolos
+30,P,Makassar,Rock,Duo,Tidak,1,8,4.5,Tidak Lolos
+16,L,Medan,Rock,Duo,Ya,7,7,7.0,Lolos
+25,P,Bandung,K-Pop,Solo,Ya,5,5,5.0,Tidak Lolos
+29,P,Bandung,Pop,Duo,Tidak,8,5,6.5,Tidak Lolos
+30,P,Medan,Pop,Solo,Ya,5,2,3.5,Tidak Lolos
+21,P,Jakarta,Pop,Duo,Ya,1,6,3.5,Tidak Lolos
+29,P,Medan,Dangdut,Duo,Tidak,5,10,7.5,Lolos
+25,L,Bandung,Rock,Duo,Tidak,8,1,4.5,Tidak Lolos
+15,P,Bandung,Dangdut,Solo,Tidak,7,1,4.0,Tidak Lolos
+21,L,Bandung,Dangdut,Duo,Ya,5,6,5.5,Tidak Lolos
+29,P,Makassar,Dangdut,Grup,Ya,3,1,2.0,Tidak Lolos
+30,P,Bandung,Pop,Duo,Ya,8,3,5.5,Tidak Lolos
+17,L,Bandung,Rock,Solo,Tidak,1,7,4.0,Tidak Lolos
+28,P,Makassar,K-Pop,Solo,Ya,2,8,5.0,Tidak Lolos
+17,P,Medan,Pop,Solo,Tidak,7,8,7.5,Lolos
+28,L,Jakarta,Pop,Duo,Tidak,5,1,3.0,Tidak Lolos
+28,P,Jakarta,Pop,Solo,Ya,6,10,8.0,Lolos
+24,P,Medan,Pop,Solo,Tidak,3,3,3.0,Tidak Lolos
+20,P,Jakarta,Pop,Duo,Ya,8,4,6.0,Tidak Lolos
+15,L,Medan,Dangdut,Duo,Tidak,2,9,5.5,Tidak Lolos
+15,P,Makassar,Jazz,Grup,Ya,10,6,8.0,Lolos
+21,P,Bandung,Pop,Duo,Ya,7,1,4.0,Tidak Lolos
+29,L,Makassar,Pop,Solo,Tidak,1,8,4.5,Tidak Lolos
+23,P,Surabaya,Rock,Duo,Ya,5,2,3.5,Tidak Lolos
+17,P,Medan,Pop,Duo,Tidak,2,4,3.0,Tidak Lolos
+19,L,Bandung,Jazz,Duo,Tidak,5,9,7.0,Lolos
+29,P,Medan,Jazz,Grup,Tidak,7,5,6.0,Tidak Lolos
+27,P,Bandung,Jazz,Grup,Tidak,8,8,8.0,Lolos
+17,L,Makassar,K-Pop,Solo,Ya,3,8,5.5,Tidak Lolos
+30,L,Makassar,Dangdut,Duo,Ya,10,3,6.5,Tidak Lolos
+19,L,Bandung,Rock,Duo,Tidak,1,1,1.0,Tidak Lolos
+16,L,Surabaya,Rock,Grup,Tidak,7,8,7.5,Lolos
+21,P,Jakarta,K-Pop,Grup,Tidak,3,2,2.5,Tidak Lolos
+19,L,Surabaya,Rock,Duo,Ya,7,4,5.5,Tidak Lolos
+15,P,Jakarta,Dangdut,Solo,Ya,3,7,5.0,Tidak Lolos
+15,P,Bandung,Pop,Duo,Tidak,8,10,9.0,Lolos
+17,P,Makassar,K-Pop,Solo,Tidak,7,10,8.5,Lolos
+25,P,Makassar,Pop,Solo,Ya,7,8,7.5,Lolos
+15,L,Jakarta,K-Pop,Grup,Tidak,2,10,6.0,Tidak Lolos
+21,P,Medan,K-Pop,Solo,Tidak,10,10,10.0,Lolos
+29,P,Jakarta,Rock,Duo,Ya,3,10,6.5,Tidak Lolos
+27,L,Medan,Jazz,Solo,Tidak,4,9,6.5,Tidak Lolos
+24,P,Surabaya,Pop,Solo,Tidak,1,9,5.0,Tidak Lolos
+24,L,Surabaya,Pop,Duo,Tidak,3,7,5.0,Tidak Lolos
+26,L,Surabaya,Pop,Solo,Tidak,3,10,6.5,Tidak Lolos
+15,P,Surabaya,Pop,Grup,Ya,9,4,6.5,Tidak Lolos
+25,L,Bandung,Jazz,Grup,Ya,4,10,7.0,Lolos
+20,L,Medan,Pop,Duo,Tidak,6,1,3.5,Tidak Lolos
+20,L,Surabaya,Pop,Duo,Ya,5,3,4.0,Tidak Lolos
+29,L,Surabaya,K-Pop,Solo,Ya,2,9,5.5,Tidak Lolos
+27,P,Surabaya,Jazz,Grup,Ya,3,7,5.0,Tidak Lolos
+16,P,Bandung,Jazz,Duo,Tidak,8,3,5.5,Tidak Lolos
+17,P,Surabaya,Rock,Solo,Ya,3,3,3.0,Tidak Lolos
+24,L,Jakarta,Dangdut,Solo,Ya,1,5,3.0,Tidak Lolos
+15,P,Jakarta,Rock,Duo,Tidak,2,3,2.5,Tidak Lolos
+28,L,Jakarta,Jazz,Duo,Tidak,1,8,4.5,Tidak Lolos
+19,P,Makassar,Rock,Grup,Tidak,7,2,4.5,Tidak Lolos
+26,P,Jakarta,Dangdut,Grup,Tidak,3,3,3.0,Tidak Lolos
+30,P,Jakarta,Dangdut,Grup,Tidak,5,3,4.0,Tidak Lolos
+25,P,Bandung,Rock,Duo,Tidak,3,8,5.5,Tidak Lolos
+22,P,Makassar,Dangdut,Grup,Ya,4,6,5.0,Tidak Lolos
+19,P,Bandung,Rock,Solo,Tidak,6,3,4.5,Tidak Lolos
+24,P,Jakarta,Jazz,Solo,Tidak,3,2,2.5,Tidak Lolos
+25,L,Medan,Rock,Duo,Tidak,6,6,6.0,Tidak Lolos
+29,L,Bandung,Pop,Grup,Ya,3,7,5.0,Tidak Lolos
+23,P,Bandung,Pop,Solo,Ya,1,1,1.0,Tidak Lolos
+27,P,Surabaya,K-Pop,Solo,Ya,9,6,7.5,Lolos
+30,P,Jakarta,Rock,Duo,Ya,7,3,5.0,Tidak Lolos
+28,P,Bandung,Dangdut,Solo,Tidak,6,10,8.0,Lolos
+23,L,Makassar,Rock,Solo,Ya,4,10,7.0,Lolos
+20,L,Jakarta,Rock,Duo,Tidak,9,3,6.0,Tidak Lolos
+24,P,Surabaya,K-Pop,Grup,Tidak,3,4,3.5,Tidak Lolos
+26,P,Surabaya,Rock,Duo,Tidak,3,1,2.0,Tidak Lolos
+28,L,Medan,Dangdut,Duo,Tidak,9,4,6.5,Tidak Lolos
+30,P,Makassar,K-Pop,Grup,Ya,8,2,5.0,Tidak Lolos
+28,P,Surabaya,K-Pop,Solo,Ya,7,10,8.5,Lolos
+17,P,Makassar,K-Pop,Solo,Ya,1,4,2.5,Tidak Lolos
+24,L,Bandung,Rock,Solo,Ya,1,2,1.5,Tidak Lolos
+24,L,Jakarta,Pop,Grup,Tidak,8,4,6.0,Tidak Lolos
+29,L,Makassar,Pop,Solo,Ya,10,9,9.5,Lolos
+20,P,Jakarta,K-Pop,Grup,Ya,2,7,4.5,Tidak Lolos
+29,L,Bandung,Dangdut,Solo,Tidak,10,3,6.5,Tidak Lolos
+19,L,Surabaya,Pop,Duo,Tidak,6,9,7.5,Lolos
+16,L,Surabaya,Pop,Duo,Ya,9,8,8.5,Lolos
+17,P,Surabaya,Rock,Grup,Ya,9,10,9.5,Lolos
+25,L,Medan,Jazz,Duo,Ya,3,4,3.5,Tidak Lolos
+17,L,Bandung,Pop,Solo,Tidak,4,10,7.0,Lolos
+30,L,Medan,Pop,Grup,Tidak,2,3,2.5,Tidak Lolos
+19,P,Medan,K-Pop,Solo,Ya,5,1,3.0,Tidak Lolos
+21,P,Makassar,K-Pop,Grup,Ya,6,9,7.5,Lolos
+23,L,Bandung,Pop,Grup,Tidak,1,3,2.0,Tidak Lolos
+23,P,Medan,Pop,Duo,Tidak,4,1,2.5,Tidak Lolos
+18,L,Jakarta,K-Pop,Duo,Ya,4,8,6.0,Tidak Lolos
+18,P,Bandung,Jazz,Duo,Ya,5,6,5.5,Tidak Lolos
+25,P,Makassar,Dangdut,Grup,Tidak,1,2,1.5,Tidak Lolos
+19,L,Makassar,Jazz,Grup,Tidak,8,1,4.5,Tidak Lolos
+30,L,Jakarta,Pop,Grup,Tidak,8,9,8.5,Lolos
+20,P,Surabaya,Rock,Solo,Tidak,5,4,4.5,Tidak Lolos
+16,P,Makassar,Dangdut,Duo,Ya,1,9,5.0,Tidak Lolos
+29,L,Surabaya,Jazz,Grup,Ya,1,4,2.5,Tidak Lolos
+18,L,Bandung,Jazz,Solo,Tidak,1,2,1.5,Tidak Lolos
+29,P,Medan,Jazz,Duo,Tidak,7,10,8.5,Lolos
+21,L,Surabaya,Pop,Duo,Tidak,2,7,4.5,Tidak Lolos
+16,P,Surabaya,Jazz,Solo,Ya,6,2,4.0,Tidak Lolos
+17,L,Jakarta,Jazz,Solo,Tidak,1,8,4.5,Tidak Lolos
+22,L,Medan,Dangdut,Duo,Tidak,6,9,7.5,Lolos
+27,L,Medan,Jazz,Duo,Ya,10,1,5.5,Tidak Lolos
+19,L,Surabaya,K-Pop,Solo,Tidak,3,2,2.5,Tidak Lolos
+18,P,Bandung,Rock,Solo,Tidak,5,3,4.0,Tidak Lolos
+28,L,Surabaya,Dangdut,Duo,Tidak,9,5,7.0,Lolos
+24,L,Jakarta,Rock,Grup,Tidak,2,8,5.0,Tidak Lolos
+21,P,Makassar,Dangdut,Grup,Tidak,8,4,6.0,Tidak Lolos
+25,L,Medan,Rock,Grup,Ya,3,6,4.5,Tidak Lolos
+25,L,Jakarta,Dangdut,Grup,Ya,6,1,3.5,Tidak Lolos
+21,L,Jakarta,Rock,Grup,Ya,7,4,5.5,Tidak Lolos
+23,L,Medan,Jazz,Grup,Ya,3,2,2.5,Tidak Lolos
+22,L,Medan,Pop,Grup,Ya,7,2,4.5,Tidak Lolos
+16,L,Bandung,Pop,Grup,Tidak,1,5,3.0,Tidak Lolos
+30,L,Makassar,Jazz,Duo,Tidak,10,7,8.5,Lolos
+16,L,Surabaya,Pop,Grup,Ya,2,6,4.0,Tidak Lolos
+18,P,Makassar,Pop,Duo,Tidak,6,8,7.0,Lolos
+16,L,Medan,K-Pop,Solo,Tidak,4,1,2.5,Tidak Lolos
+20,P,Surabaya,Pop,Grup,Ya,5,7,6.0,Tidak Lolos
+15,L,Surabaya,Dangdut,Grup,Ya,9,9,9.0,Lolos
+19,L,Makassar,K-Pop,Solo,Tidak,3,10,6.5,Tidak Lolos
+27,P,Medan,Rock,Grup,Ya,7,5,6.0,Tidak Lolos
+26,L,Jakarta,Jazz,Grup,Ya,2,2,2.0,Tidak Lolos
+16,P,Medan,Jazz,Duo,Ya,8,5,6.5,Tidak Lolos
+21,L,Medan,K-Pop,Duo,Tidak,1,9,5.0,Tidak Lolos
+17,L,Bandung,Rock,Grup,Ya,8,5,6.5,Tidak Lolos
+21,L,Surabaya,Jazz,Grup,Tidak,6,5,5.5,Tidak Lolos
+19,L,Bandung,Pop,Grup,Ya,8,5,6.5,Tidak Lolos
+18,L,Makassar,Rock,Solo,Tidak,1,4,2.5,Tidak Lolos
+20,L,Bandung,Dangdut,Duo,Ya,7,1,4.0,Tidak Lolos
+28,L,Bandung,K-Pop,Solo,Ya,7,10,8.5,Lolos
+19,L,Bandung,K-Pop,Duo,Tidak,4,7,5.5,Tidak Lolos
+30,L,Jakarta,Jazz,Solo,Ya,9,8,8.5,Lolos
+15,P,Jakarta,Jazz,Duo,Tidak,1,3,2.0,Tidak Lolos
+19,L,Bandung,Pop,Grup,Tidak,9,4,6.5,Tidak Lolos
+30,P,Medan,K-Pop,Duo,Ya,2,1,1.5,Tidak Lolos
+17,L,Surabaya,Dangdut,Grup,Tidak,4,4,4.0,Tidak Lolos
+26,P,Makassar,Rock,Duo,Tidak,4,4,4.0,Tidak Lolos
+20,L,Surabaya,Dangdut,Solo,Ya,10,7,8.5,Lolos
+26,L,Surabaya,K-Pop,Duo,Ya,7,9,8.0,Lolos
+19,P,Surabaya,K-Pop,Grup,Tidak,10,9,9.5,Lolos
+30,P,Medan,Pop,Duo,Tidak,6,10,8.0,Lolos
+22,P,Surabaya,Pop,Solo,Ya,2,9,5.5,Tidak Lolos
+24,L,Makassar,Rock,Grup,Ya,4,5,4.5,Tidak Lolos
+21,P,Surabaya,Rock,Solo,Ya,10,8,9.0,Lolos
+21,P,Bandung,Pop,Duo,Tidak,5,6,5.5,Tidak Lolos
+16,L,Surabaya,Dangdut,Solo,Tidak,7,10,8.5,Lolos
+20,P,Makassar,Rock,Grup,Ya,7,4,5.5,Tidak Lolos
+25,P,Bandung,Pop,Grup,Ya,10,3,6.5,Tidak Lolos
+19,P,Makassar,Rock,Duo,Ya,6,10,8.0,Lolos
+16,P,Bandung,Jazz,Solo,Tidak,7,3,5.0,Tidak Lolos
+23,L,Surabaya,Pop,Solo,Ya,3,2,2.5,Tidak Lolos
+27,P,Surabaya,Jazz,Grup,Tidak,1,9,5.0,Tidak Lolos
+28,P,Surabaya,Rock,Grup,Ya,2,2,2.0,Tidak Lolos
+28,L,Jakarta,Dangdut,Grup,Tidak,7,3,5.0,Tidak Lolos
+28,L,Makassar,Dangdut,Grup,Tidak,8,7,7.5,Lolos
+17,L,Jakarta,Dangdut,Duo,Tidak,6,5,5.5,Tidak Lolos
+29,P,Surabaya,Pop,Grup,Ya,6,4,5.0,Tidak Lolos
+24,P,Makassar,K-Pop,Grup,Tidak,2,6,4.0,Tidak Lolos
+19,L,Bandung,Pop,Grup,Tidak,5,1,3.0,Tidak Lolos
+30,L,Jakarta,Rock,Solo,Ya,5,4,4.5,Tidak Lolos
+17,P,Medan,Pop,Duo,Tidak,7,6,6.5,Tidak Lolos
+16,L,Makassar,Pop,Solo,Ya,3,8,5.5,Tidak Lolos
+22,L,Surabaya,Jazz,Duo,Tidak,4,2,3.0,Tidak Lolos
+22,L,Jakarta,Pop,Solo,Tidak,2,10,6.0,Tidak Lolos
+21,L,Jakarta,Jazz,Solo,Ya,6,9,7.5,Lolos
+21,L,Surabaya,Dangdut,Duo,Tidak,2,2,2.0,Tidak Lolos
+22,L,Jakarta,Jazz,Solo,Tidak,2,1,1.5,Tidak Lolos
+25,P,Makassar,Pop,Grup,Tidak,4,4,4.0,Tidak Lolos
+26,L,Bandung,Jazz,Solo,Tidak,2,5,3.5,Tidak Lolos
+30,P,Jakarta,Dangdut,Solo,Tidak,8,6,7.0,Lolos
+18,L,Makassar,Dangdut,Grup,Tidak,1,8,4.5,Tidak Lolos
+20,P,Medan,Rock,Solo,Ya,2,1,1.5,Tidak Lolos
+25,L,Jakarta,Dangdut,Solo,Tidak,10,7,8.5,Lolos
+19,P,Jakarta,Jazz,Duo,Ya,6,10,8.0,Lolos
+25,P,Makassar,Rock,Grup,Ya,1,3,2.0,Tidak Lolos
+22,P,Medan,Pop,Grup,Ya,8,5,6.5,Tidak Lolos
+20,P,Bandung,Rock,Solo,Tidak,2,9,5.5,Tidak Lolos
+20,L,Jakarta,Pop,Duo,Ya,6,8,7.0,Lolos
+20,L,Bandung,Dangdut,Grup,Tidak,10,10,10.0,Lolos
+22,L,Bandung,Jazz,Solo,Tidak,10,5,7.5,Lolos
+24,L,Jakarta,K-Pop,Grup,Ya,2,2,2.0,Tidak Lolos
+30,P,Jakarta,Jazz,Solo,Ya,1,7,4.0,Tidak Lolos
+15,L,Bandung,K-Pop,Solo,Tidak,4,2,3.0,Tidak Lolos
+17,L,Medan,K-Pop,Grup,Tidak,2,9,5.5,Tidak Lolos
+16,L,Medan,Jazz,Grup,Ya,9,9,9.0,Lolos
+19,P,Jakarta,K-Pop,Solo,Ya,4,6,5.0,Tidak Lolos
+15,P,Makassar,Rock,Grup,Ya,3,2,2.5,Tidak Lolos
+24,L,Jakarta,K-Pop,Solo,Tidak,8,10,9.0,Lolos
+18,L,Jakarta,K-Pop,Grup,Ya,1,7,4.0,Tidak Lolos
+27,L,Makassar,Rock,Duo,Ya,3,1,2.0,Tidak Lolos
+24,P,Medan,Rock,Duo,Tidak,10,10,10.0,Lolos
+20,P,Jakarta,Dangdut,Duo,Tidak,8,5,6.5,Tidak Lolos
+21,P,Bandung,Jazz,Solo,Tidak,1,5,3.0,Tidak Lolos
+21,L,Surabaya,Dangdut,Grup,Tidak,1,6,3.5,Tidak Lolos
+21,P,Makassar,K-Pop,Duo,Ya,4,10,7.0,Lolos
+26,L,Makassar,Jazz,Duo,Ya,7,8,7.5,Lolos
+22,L,Makassar,Rock,Grup,Ya,7,2,4.5,Tidak Lolos
+27,L,Makassar,K-Pop,Duo,Tidak,7,1,4.0,Tidak Lolos
+28,L,Jakarta,Pop,Grup,Ya,9,2,5.5,Tidak Lolos
+28,P,Jakarta,K-Pop,Solo,Tidak,2,10,6.0,Tidak Lolos
+21,P,Surabaya,Pop,Grup,Ya,10,4,7.0,Lolos
+25,L,Medan,Dangdut,Grup,Ya,6,6,6.0,Tidak Lolos
+18,L,Bandung,Jazz,Grup,Ya,4,10,7.0,Lolos
+17,L,Medan,Jazz,Grup,Ya,8,5,6.5,Tidak Lolos
+29,P,Surabaya,Pop,Solo,Ya,9,4,6.5,Tidak Lolos
+25,P,Bandung,Pop,Duo,Tidak,8,2,5.0,Tidak Lolos
+23,L,Makassar,Pop,Solo,Ya,1,2,1.5,Tidak Lolos
+19,P,Bandung,Rock,Duo,Ya,3,10,6.5,Tidak Lolos
+27,P,Surabaya,Dangdut,Solo,Tidak,6,3,4.5,Tidak Lolos
+23,P,Medan,K-Pop,Duo,Ya,1,2,1.5,Tidak Lolos
+30,L,Jakarta,Jazz,Solo,Tidak,4,6,5.0,Tidak Lolos
+21,L,Bandung,Pop,Grup,Tidak,10,1,5.5,Tidak Lolos
+22,L,Medan,Rock,Solo,Tidak,4,10,7.0,Lolos
+23,L,Jakarta,K-Pop,Solo,Ya,2,4,3.0,Tidak Lolos
+22,P,Bandung,Jazz,Grup,Tidak,9,6,7.5,Lolos
+20,L,Surabaya,Jazz,Solo,Tidak,2,9,5.5,Tidak Lolos
+26,L,Jakarta,Jazz,Duo,Ya,5,9,7.0,Lolos
+23,L,Jakarta,Rock,Grup,Ya,3,2,2.5,Tidak Lolos
+26,P,Bandung,Jazz,Duo,Ya,10,9,9.5,Lolos
+29,L,Medan,Rock,Solo,Tidak,3,4,3.5,Tidak Lolos
+24,P,Bandung,Dangdut,Solo,Ya,8,5,6.5,Tidak Lolos
+28,P,Bandung,Jazz,Duo,Tidak,6,6,6.0,Tidak Lolos
+17,L,Bandung,Pop,Solo,Ya,4,2,3.0,Tidak Lolos
+20,L,Medan,Rock,Grup,Ya,9,1,5.0,Tidak Lolos
+15,L,Surabaya,Dangdut,Solo,Tidak,7,6,6.5,Tidak Lolos
+15,P,Surabaya,Jazz,Duo,Ya,5,3,4.0,Tidak Lolos
+20,P,Makassar,K-Pop,Duo,Ya,6,8,7.0,Lolos
+18,L,Bandung,Pop,Solo,Tidak,3,3,3.0,Tidak Lolos
+16,P,Makassar,Rock,Solo,Ya,10,1,5.5,Tidak Lolos
+29,P,Surabaya,Pop,Grup,Ya,3,2,2.5,Tidak Lolos
+21,L,Jakarta,K-Pop,Solo,Tidak,3,6,4.5,Tidak Lolos
+29,L,Bandung,Jazz,Grup,Ya,9,6,7.5,Lolos
+20,P,Makassar,K-Pop,Grup,Tidak,5,6,5.5,Tidak Lolos
+17,P,Bandung,Dangdut,Duo,Ya,8,7,7.5,Lolos
+20,P,Makassar,Dangdut,Grup,Ya,9,4,6.5,Tidak Lolos
+27,P,Makassar,Rock,Solo,Ya,2,7,4.5,Tidak Lolos
+26,P,Medan,Dangdut,Grup,Ya,7,3,5.0,Tidak Lolos
+17,P,Surabaya,Rock,Solo,Tidak,8,4,6.0,Tidak Lolos
+30,P,Jakarta,Jazz,Solo,Ya,2,4,3.0,Tidak Lolos
+25,P,Makassar,K-Pop,Duo,Tidak,4,4,4.0,Tidak Lolos
+27,L,Makassar,Dangdut,Solo,Ya,8,10,9.0,Lolos
+19,P,Jakarta,Dangdut,Duo,Ya,8,3,5.5,Tidak Lolos
+25,L,Makassar,Pop,Solo,Ya,2,4,3.0,Tidak Lolos
+23,L,Bandung,K-Pop,Duo,Ya,9,5,7.0,Lolos
+22,L,Jakarta,Dangdut,Solo,Tidak,5,8,6.5,Tidak Lolos
+29,L,Bandung,Pop,Duo,Tidak,9,10,9.5,Lolos
+23,P,Makassar,Jazz,Duo,Ya,9,6,7.5,Lolos
+28,L,Makassar,Pop,Solo,Ya,9,5,7.0,Lolos
+28,P,Bandung,Dangdut,Duo,Ya,3,2,2.5,Tidak Lolos
+20,L,Bandung,Dangdut,Duo,Tidak,2,5,3.5,Tidak Lolos
+21,P,Surabaya,K-Pop,Solo,Ya,5,10,7.5,Lolos
+18,L,Medan,Jazz,Grup,Ya,7,7,7.0,Lolos
+28,P,Bandung,Dangdut,Grup,Ya,1,2,1.5,Tidak Lolos
+23,L,Medan,Dangdut,Grup,Tidak,2,6,4.0,Tidak Lolos
+16,L,Medan,Dangdut,Solo,Tidak,3,8,5.5,Tidak Lolos
+30,P,Medan,Rock,Grup,Ya,4,9,6.5,Tidak Lolos
+24,P,Medan,Dangdut,Duo,Tidak,5,6,5.5,Tidak Lolos
+24,L,Makassar,K-Pop,Solo,Tidak,9,2,5.5,Tidak Lolos
+21,P,Surabaya,Rock,Solo,Ya,8,10,9.0,Lolos
+26,P,Makassar,K-Pop,Solo,Ya,5,6,5.5,Tidak Lolos
+24,P,Bandung,Dangdut,Grup,Ya,9,1,5.0,Tidak Lolos
+20,L,Surabaya,Jazz,Solo,Ya,10,8,9.0,Lolos
+16,L,Surabaya,K-Pop,Solo,Tidak,8,6,7.0,Lolos
+29,L,Makassar,Rock,Duo,Ya,6,7,6.5,Tidak Lolos
+27,P,Jakarta,Pop,Grup,Tidak,3,8,5.5,Tidak Lolos
+16,L,Surabaya,Dangdut,Grup,Tidak,7,2,4.5,Tidak Lolos
+23,L,Bandung,Rock,Duo,Tidak,10,9,9.5,Lolos
+27,L,Makassar,Pop,Grup,Ya,7,4,5.5,Tidak Lolos
+20,L,Makassar,Rock,Solo,Ya,1,4,2.5,Tidak Lolos
+17,P,Jakarta,K-Pop,Duo,Tidak,8,6,7.0,Lolos
+18,L,Surabaya,K-Pop,Duo,Tidak,3,1,2.0,Tidak Lolos
+21,P,Bandung,Dangdut,Grup,Ya,2,6,4.0,Tidak Lolos
+25,L,Jakarta,Rock,Grup,Tidak,10,8,9.0,Lolos
+16,L,Surabaya,Jazz,Solo,Ya,3,4,3.5,Tidak Lolos
+22,L,Surabaya,Jazz,Grup,Ya,5,7,6.0,Tidak Lolos
+16,P,Jakarta,Jazz,Solo,Ya,8,5,6.5,Tidak Lolos
+23,P,Bandung,Pop,Grup,Tidak,7,1,4.0,Tidak Lolos
+27,L,Surabaya,Pop,Grup,Tidak,9,1,5.0,Tidak Lolos
+16,L,Bandung,K-Pop,Duo,Tidak,7,2,4.5,Tidak Lolos
+17,L,Bandung,K-Pop,Duo,Tidak,5,8,6.5,Tidak Lolos
+15,L,Makassar,Jazz,Duo,Ya,9,7,8.0,Lolos
+28,P,Medan,Dangdut,Solo,Ya,5,3,4.0,Tidak Lolos
+20,P,Makassar,K-Pop,Grup,Ya,1,6,3.5,Tidak Lolos
+25,P,Makassar,Pop,Duo,Tidak,4,6,5.0,Tidak Lolos
+18,P,Surabaya,Pop,Duo,Tidak,4,7,5.5,Tidak Lolos
+16,L,Bandung,Dangdut,Solo,Ya,10,5,7.5,Lolos
+23,P,Surabaya,Dangdut,Duo,Tidak,9,2,5.5,Tidak Lolos
+30,P,Jakarta,Rock,Grup,Ya,5,5,5.0,Tidak Lolos
+30,L,Jakarta,Dangdut,Solo,Tidak,2,3,2.5,Tidak Lolos
+25,L,Jakarta,K-Pop,Grup,Tidak,1,3,2.0,Tidak Lolos
+15,P,Medan,Pop,Solo,Tidak,4,6,5.0,Tidak Lolos
+28,L,Bandung,Dangdut,Grup,Ya,8,5,6.5,Tidak Lolos
+17,P,Medan,Jazz,Duo,Tidak,8,2,5.0,Tidak Lolos
+28,L,Medan,Pop,Solo,Tidak,6,4,5.0,Tidak Lolos
+19,P,Medan,Dangdut,Grup,Ya,2,6,4.0,Tidak Lolos
+18,P,Bandung,K-Pop,Solo,Ya,10,9,9.5,Lolos
+25,L,Medan,Pop,Solo,Ya,5,3,4.0,Tidak Lolos
+17,L,Surabaya,Dangdut,Duo,Tidak,10,4,7.0,Lolos
+25,L,Makassar,K-Pop,Duo,Ya,1,10,5.5,Tidak Lolos
+22,L,Medan,K-Pop,Grup,Tidak,7,10,8.5,Lolos
+30,L,Makassar,Jazz,Grup,Ya,4,7,5.5,Tidak Lolos
+25,P,Surabaya,Jazz,Grup,Ya,9,5,7.0,Lolos
+17,L,Bandung,Pop,Solo,Tidak,10,10,10.0,Lolos
+15,P,Bandung,Jazz,Solo,Tidak,8,7,7.5,Lolos
+25,P,Surabaya,Rock,Grup,Ya,10,7,8.5,Lolos
+15,L,Bandung,Jazz,Duo,Ya,2,7,4.5,Tidak Lolos
+16,L,Bandung,Rock,Duo,Ya,9,1,5.0,Tidak Lolos
+30,L,Bandung,Pop,Solo,Ya,1,3,2.0,Tidak Lolos
+29,L,Bandung,Jazz,Grup,Ya,5,7,6.0,Tidak Lolos
+20,L,Medan,Dangdut,Duo,Ya,1,8,4.5,Tidak Lolos
+18,L,Bandung,K-Pop,Solo,Tidak,2,6,4.0,Tidak Lolos
+27,L,Jakarta,Pop,Duo,Ya,5,5,5.0,Tidak Lolos
+20,P,Bandung,Rock,Solo,Tidak,6,8,7.0,Lolos
+23,P,Surabaya,K-Pop,Grup,Ya,6,7,6.5,Tidak Lolos
+22,L,Medan,Jazz,Grup,Ya,9,4,6.5,Tidak Lolos
+23,L,Surabaya,Rock,Solo,Tidak,5,1,3.0,Tidak Lolos
+22,P,Medan,K-Pop,Duo,Ya,1,9,5.0,Tidak Lolos
+29,P,Medan,K-Pop,Duo,Ya,5,5,5.0,Tidak Lolos
+22,P,Makassar,Rock,Grup,Ya,6,3,4.5,Tidak Lolos
+16,L,Jakarta,Dangdut,Solo,Ya,10,8,9.0,Lolos
+21,P,Surabaya,Rock,Solo,Ya,4,5,4.5,Tidak Lolos
+18,L,Jakarta,Rock,Grup,Tidak,10,7,8.5,Lolos
+18,P,Jakarta,K-Pop,Solo,Ya,4,8,6.0,Tidak Lolos
+27,L,Bandung,Jazz,Grup,Tidak,1,9,5.0,Tidak Lolos
+21,L,Surabaya,Rock,Duo,Ya,2,1,1.5,Tidak Lolos
+22,P,Jakarta,Pop,Duo,Ya,1,4,2.5,Tidak Lolos
+17,L,Jakarta,Pop,Duo,Tidak,6,4,5.0,Tidak Lolos
+21,P,Surabaya,Dangdut,Solo,Ya,8,9,8.5,Lolos
+25,L,Makassar,Rock,Grup,Tidak,6,3,4.5,Tidak Lolos
+25,P,Makassar,Jazz,Grup,Ya,1,9,5.0,Tidak Lolos
+16,P,Bandung,Rock,Grup,Tidak,6,9,7.5,Lolos
+29,P,Medan,Pop,Grup,Tidak,2,1,1.5,Tidak Lolos
+16,P,Jakarta,Rock,Solo,Ya,3,4,3.5,Tidak Lolos
+26,P,Surabaya,Dangdut,Grup,Ya,6,10,8.0,Lolos
+15,L,Surabaya,K-Pop,Solo,Ya,5,6,5.5,Tidak Lolos
+26,P,Surabaya,Rock,Grup,Ya,3,2,2.5,Tidak Lolos
+15,P,Bandung,Dangdut,Grup,Ya,1,7,4.0,Tidak Lolos
+22,L,Jakarta,K-Pop,Solo,Tidak,3,9,6.0,Tidak Lolos
+28,P,Jakarta,Rock,Duo,Ya,8,7,7.5,Lolos
+23,L,Surabaya,Jazz,Duo,Ya,2,4,3.0,Tidak Lolos
+17,L,Makassar,Pop,Solo,Ya,7,5,6.0,Tidak Lolos
+29,L,Surabaya,K-Pop,Solo,Tidak,5,1,3.0,Tidak Lolos
